@@ -8,7 +8,7 @@ function Home() {
       <h1>Spotify tem de tudo, até os muppets tocando Bohemya Rhapsody!</h1>
       <div className="video">
         <iframe
-          title="Bohemya Rhapsody"
+          title="Bohemian Rhapsody"
           src="https://www.youtube.com/embed/tgbNymZ7vqY"
         />
       </div>
